@@ -1,0 +1,25 @@
+{
+  "name": "github-commit-bot",
+  "version": "1.0.0",
+  "description": "Real-time GitHub commit notifications delivered straight to your WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VryptLab/github-commit-bot.git"
+  },
+  "keywords": [],
+  "author": "Vryptt",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/VryptLab/github-commit-bot/issues"
+  },
+  "homepage": "https://github.com/VryptLab/github-commit-bot#readme",
+  "dependencies": {
+    "baileys": "^7.0.0-rc.5",
+    "node-fetch": "^3.3.2"
+  }
+}
